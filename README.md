@@ -15,9 +15,6 @@ Este projeto foi desenvolvido para explorar a base de dados real da **Olist**, o
 * **Matplotlib & Seaborn** (Visualização de dados e gráficos estatísticos)
 * **Jupyter Notebook** (Ambiente de análise)
 
-## 💡 Insights de Negócio:
-* *(Opcional: Coloque aqui uma frase curta sobre algo que você descobriu, por exemplo: "Identifiquei que 80% das vendas se concentram na região Sudeste, sugerindo uma oportunidade de expansão logística no Sul.")*
-
 ---
 ✨ **Próximo Passo:** Com base nestes dados, desenvolvi uma **Análise RFM** para segmentação de clientes, que você pode conferir no meu perfil.
 
